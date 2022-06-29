@@ -1,0 +1,11 @@
+C:\Users\ana.clara6\Desktop\UC12\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.exe.config
+C:\Users\ana.clara6\Desktop\UC12\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.exe
+C:\Users\ana.clara6\Desktop\UC12\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.pdb
+C:\Users\ana.clara6\Desktop\UC12\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.AssemblyReference.cache
+C:\Users\ana.clara6\Desktop\UC12\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ana.clara6\Desktop\UC12\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.Form1.resources
+C:\Users\ana.clara6\Desktop\UC12\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.Properties.Resources.resources
+C:\Users\ana.clara6\Desktop\UC12\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.GenerateResource.cache
+C:\Users\ana.clara6\Desktop\UC12\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\ana.clara6\Desktop\UC12\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.exe
+C:\Users\ana.clara6\Desktop\UC12\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.pdb
